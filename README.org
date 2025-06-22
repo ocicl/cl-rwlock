@@ -2,8 +2,8 @@
 
 Read-write lock implementation copied from Go.
 
-|---------+-----------------------------------------|
-| source  | git:https://git.sr.ht/~q3cpma/cl-rwlock |
-| commit  | cd694e9f                                |
-| systems | cl-rwlock                               |
-|---------+-----------------------------------------|
+|---------+----------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-rwlock.git |
+| commit  | 83e8be1                                      |
+| systems | cl-rwlock                                    |
+|---------+----------------------------------------------|
