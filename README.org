@@ -1,0 +1,9 @@
+* cl-rwlock
+
+Read-write lock implementation copied from Go.
+
+|---------+-----------------------------------------|
+| source  | git:https://git.sr.ht/~q3cpma/cl-rwlock |
+| commit  | cd694e9f                                |
+| systems | cl-rwlock                               |
+|---------+-----------------------------------------|
